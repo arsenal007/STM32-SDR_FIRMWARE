@@ -1,5 +1,6 @@
 
 Low cost "sandwich" SDR TRX UT3MK Tranciever PCB layout and software
+  - click on images to enlarge
 ![Alt Text](https://raw.github.com/arsenal007/ut3mk/master/KiCad_projects/VFO/LCSDR_schematics.jpg)
  - Schematics
 ![Alt Text](https://raw.github.com/arsenal007/ut3mk/master/KiCad_projects/VFO/LCSDR_F.jpg) 
