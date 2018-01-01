@@ -1,0 +1,71 @@
+** Drc report for /home/arsenal/usr/HAM_Elektronik/low_cost_SDR 1/BPF/v1.0/BPF.kicad_pcb **
+** Created on 2017-01-10 19:20:11 **
+
+** Found 30 DRC errors **
+ErrType(27): Too small track width
+    @ (66,800 mm,61,580 mm): Track 0,100 mm, net [Net-(C3-Pad1)] (7) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (70,620 mm,71,000 mm): Track 0,100 mm, net [Net-(C3-Pad1)] (7) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (71,780 mm,71,000 mm): Track 0,100 mm, net [Net-(C10-Pad1)] (8) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (73,180 mm,46,800 mm): Track 0,100 mm, net [Net-(C10-Pad1)] (8) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (66,800 mm,60,420 mm): Track 0,100 mm, net [Net-(C11-Pad2)] (9) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (72,020 mm,46,800 mm): Track 0,100 mm, net [Net-(C11-Pad1)] (10) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (87,620 mm,45,000 mm): Track 0,100 mm, net [Net-(C12-Pad1)] (11) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (80,800 mm,58,420 mm): Track 0,100 mm, net [Net-(C12-Pad2)] (12) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (88,220 mm,67,600 mm): Track 0,100 mm, net [Net-(C13-Pad1)] (13) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (80,800 mm,61,413 mm): Track 0,100 mm, net [Net-(C13-Pad1)] (13) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (91,213 mm,67,600 mm): Track 0,100 mm, net [Net-(C17-Pad1)] (14) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (88,780 mm,45,000 mm): Track 0,100 mm, net [Net-(C17-Pad1)] (14) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (102,587 mm,44,200 mm): Track 0,100 mm, net [Net-(C19-Pad1)] (15) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (97,600 mm,55,987 mm): Track 0,100 mm, net [Net-(C19-Pad2)] (16) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (104,820 mm,67,600 mm): Track 0,100 mm, net [Net-(C20-Pad1)] (17) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (97,600 mm,60,813 mm): Track 0,100 mm, net [Net-(C20-Pad1)] (17) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (105,980 mm,67,600 mm): Track 0,100 mm, net [Net-(C23-Pad1)] (18) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (105,580 mm,44,200 mm): Track 0,100 mm, net [Net-(C23-Pad1)] (18) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (114,600 mm,56,187 mm): Track 0,100 mm, net [Net-(C25-Pad2)] (19) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (119,787 mm,45,400 mm): Track 0,100 mm, net [Net-(C25-Pad1)] (20) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (114,600 mm,61,013 mm): Track 0,100 mm, net [Net-(C26-Pad1)] (21) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (120,420 mm,67,400 mm): Track 0,100 mm, net [Net-(C26-Pad1)] (21) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (122,780 mm,45,400 mm): Track 0,100 mm, net [Net-(C30-Pad1)] (22) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (121,580 mm,67,400 mm): Track 0,100 mm, net [Net-(C30-Pad1)] (22) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (136,420 mm,45,400 mm): Track 0,100 mm, net [Net-(C32-Pad1)] (23) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (129,600 mm,55,987 mm): Track 0,100 mm, net [Net-(C32-Pad2)] (24) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (136,420 mm,67,600 mm): Track 0,100 mm, net [Net-(C33-Pad1)] (25) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (129,600 mm,58,980 mm): Track 0,100 mm, net [Net-(C33-Pad1)] (25) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (137,580 mm,67,600 mm): Track 0,100 mm, net [Net-(C37-Pad1)] (30) on layer F.Cu, length: 1,833 mm
+ErrType(27): Too small track width
+    @ (137,580 mm,45,400 mm): Track 0,100 mm, net [Net-(C37-Pad1)] (30) on layer F.Cu, length: 1,833 mm
+
+** Found 1 unconnected pads **
+ErrType(2): Unconnected pads
+    @ (115,999 mm,67,400 mm): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of L11 net Net-(C26-Pad1)
+    @ (118,587 mm,67,400 mm): Pad 2 on F.Cu, Non-copper of L11
+
+** End of Report **

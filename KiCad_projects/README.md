@@ -16,3 +16,7 @@ VFO Front PCB with Keyboard, Encoder (EC16) and LCD
  - Gerber files, 3D models
 ![Alt Text](https://raw.github.com/arsenal007/ut3mk/master/KiCad_projects/VFO_FRONT/LCSDR_F.jpg) 
 ![Alt Text](https://raw.github.com/arsenal007/ut3mk/master/KiCad_projects/VFO_FRONT/LCSDR_B.jpg)
+
+
+BPF 
+![Alt Text](https://raw.github.com/arsenal007/ut3mk/master/KiCad_projects/BPF/BPF_schematics.jpg)
