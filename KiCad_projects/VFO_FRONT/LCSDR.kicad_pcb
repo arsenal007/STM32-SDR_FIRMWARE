@@ -1623,7 +1623,7 @@
   (gr_text STEP- (at 129.9 77.7 90) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "UT3MK VFO SI5351 v.1.04" (at 73.7 63.2 90) (layer F.SilkS)
+  (gr_text "UT3MK VFO SI5351 v.1.05" (at 73.7 63.2 90) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_line (start 142 39) (end 142 121) (angle 90) (layer Edge.Cuts) (width 0.1))

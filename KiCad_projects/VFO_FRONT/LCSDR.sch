@@ -16,8 +16,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "ut3mk"
-Date "2017-12-29"
-Rev "1.04"
+Date "2018-01-01"
+Rev "1.05"
 Comp ""
 Comment1 "Vasyl Kuzmenko"
 Comment2 ""

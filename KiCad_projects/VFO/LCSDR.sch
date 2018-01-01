@@ -14,8 +14,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "ut3mk"
-Date "2017-12-29"
-Rev "1.04"
+Date "2018-01-01"
+Rev "1.05"
 Comp ""
 Comment1 "Vasyl Kuzmenko"
 Comment2 ""
@@ -2417,4 +2417,8 @@ F 3 "" H 1150 2650 50  0001 C CNN
 	1    1150 2650
 	-1   0    0    1   
 $EndComp
+Text Label 700  3650 1    60   ~ 0
+reflected
+Text Label 800  3700 1    60   ~ 0
+transmitted
 $EndSCHEMATC
